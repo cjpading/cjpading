@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Christian Jason Pading a Senior Software Engineer, from :philippines:.
+I'm Christian Jason Pading. A Senior Software Engineer from :philippines:.
 
 - I have experienced working on :post_office: real estate, :bank: banking, :department_store: retail and :hospital: health care industries.
 - I am currently mastering back-end (Java, Spring) and front-end (React.js).

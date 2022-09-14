@@ -4,11 +4,10 @@ I'm Christian Jason Pading. A Senior Software Engineer from :philippines:.
 
 - I have experienced working on :post_office: real estate, :bank: banking, :department_store: retail and :hospital: health care industries.
 - I am currently mastering back-end (Java, Spring) and front-end (React.js).
-- Fun Facts:
+- Fun Facts about me:
   - `Parkinsons PH` :microphone:
   - Attends gigs/concerts :metal:
-  - Loves to travel :earth_asia:
-  - Likes :dog:
+  - Loves eating :bento:, drinking :beers:, travelling :earth_asia: and :dog:
 
 
 

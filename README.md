@@ -1,14 +1,27 @@
 ### Hi there! 👋
 
-I'm Christian Jason Pading. A Senior Software Engineer from :philippines:.
+I'm Christian Jason Pading. A Full Stack Software Engineer from :philippines:.
 
-- I have experienced working on 🏭 manufacturing, :post_office: real estate, :bank: banking, :department_store: retail, 💰 insurance and :hospital: health care industries.
-- I am currently mastering back-end (Java, Spring) and front-end (React.js).
-- I started exploring and working on 🚀 GitHub Actions/Workflows.
+- I am experienced in these areas:
+  - Back-end (Java, Spring)
+  - Front-end (React.js)
+  - Cloud (AWS)
+  - Quality Assurance
+- I have experienced working on multiple industries such as:
+  - 🏭 Manufacturing
+  - :post_office: Real Estate
+  - :bank: Banking
+  - :department_store: Retail
+  - 💰 Insurance
+  - :hospital: Health Care
 - Fun Facts about me outside software development:
   - `Parkinsons PH` :microphone:
-  - Attends gigs/concerts :metal:
-  - Loves eating :bento:, drinking :beers:, travelling :earth_asia: and :dog:
+  - Gigs/concerts :metal:
+  - Running 🏃‍♂️
+  - Eating foods :bento:
+  - Drinking :beers:
+  - Travelling :earth_asia:
+  - Dogs :dog:
 
 
 

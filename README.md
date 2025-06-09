@@ -19,7 +19,7 @@ I started my career as Data Analyst, transitioned to Quality Assurance, then fin
 - :bento: Foods
 - :beers: Beers 
 - :earth_asia: Travel
-- :dog:Dogs
+- :dog: Dogs
 
 
 

@@ -1,28 +1,25 @@
 # Hi there! 👋
-
-I'm Christian Jason Pading from :philippines:.
-
-## Career Journey:
-  - Data Analyst -> Quality Assurance -> Full Stack Software Engineer
+- I'm Christian Jason Pading from :philippines:.
+- Data Analyst -> Quality Assurance -> Full Stack Software Engineer
 ## I am experienced in these areas:
-  - Back-end (Java, Spring)
-  - Front-end (React.js)
-  - Cloud (AWS)
+- Back-end (Java, Spring)
+- Front-end (React.js)
+- Cloud (AWS)
 ## I have experienced working on multiple industries such as:
-  - 🏭 Manufacturing
-  - :post_office: Real Estate
-  - :bank: Banking
-  - :department_store: Retail
-  - 💰 Insurance
-  - :hospital: Health Care
+- 🏭 Manufacturing
+- :post_office: Real Estate
+- :bank: Banking
+- :department_store: Retail
+- 💰 Insurance
+- :hospital: Health Care
 ## Fun Facts about me:
-  - `Parkinsons PH` :microphone:
-  - Gigs/concerts :metal:
-  - Running 🏃‍♂️
-  - Eating foods :bento:
-  - Drinking :beers:
-  - Travelling :earth_asia:
-  - Dogs :dog:
+- `Parkinsons PH` :microphone:
+- Gigs/concerts :metal:
+- Running 🏃‍♂️
+- Eating foods :bento:
+- Drinking :beers:
+- Travelling :earth_asia:
+- Dogs :dog:
 
 
 

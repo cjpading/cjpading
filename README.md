@@ -1,6 +1,7 @@
-# Hi there! 👋
-- I'm Christian Jason Pading from :philippines:.
-- Data Analyst -> Quality Assurance -> Full Stack Software Engineer
+Hi there! 👋 I am from :philippines:.
+
+I started my career as Data Analyst, transitioned to Quality Assurance, then finally moving to Full Stack Software Engineer.
+
 ## I am experienced in these areas:
 - Back-end (Java, Spring)
 - Front-end (React.js)

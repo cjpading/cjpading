@@ -14,12 +14,12 @@ I started my career as Data Analyst, transitioned to Quality Assurance, then fin
 - 💰 Insurance
 - :hospital: Health Care
 ## Fun Facts about me:
-- Gigs/concerts :metal:
-- Running 🏃‍♂️
-- Eating foods :bento:
-- Drinking :beers:
-- Travelling :earth_asia:
-- Dogs :dog:
+- :metal: Gigs/Concerts
+- 🏃‍♂️ Run
+- :bento: Foods
+- :beers: Beers 
+- :earth_asia: Travel
+- :dog:Dogs
 
 
 

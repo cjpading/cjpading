@@ -7,6 +7,7 @@ I started my career as Data Analyst, transitioned to Quality Assurance, then fin
 - Front-end (React.js)
 - Cloud (AWS)
 ## I have experienced working on multiple industries such as:
+- 💸 Fintech
 - 🏭 Manufacturing
 - :post_office: Real Estate
 - :bank: Banking
